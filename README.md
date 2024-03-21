@@ -4,7 +4,6 @@
  📫 How to reach me pedro.henrique_11@hotmail.com <br>
  😄 Pronouns: <strong>he/him</strong><br>
  ⚡ Fun fact: When I was a child my aunt called me board boy (for more details search "board boy").
- ![Snake animation](https://github.com/pedr0vis/pedr0vis/blob/output/github-contribution-grid-snake.svg)
 <!---
 pedr0vis/pedr0vis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
