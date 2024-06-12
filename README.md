@@ -1,6 +1,6 @@
  <h1>Hello👋</h1>
  👀 My name is Pedro H. O. Bezerra and my nickname is pedr0vis, i'm a beginner programmer. Welcome to my Github profile!!!😎 <br>
- 🌱 I'm currently studying programming at Senac<br>
+ 🌱 I'm currently studying programming at Senac and improving my english(beginner)<br>
  📫 How to reach me pedro.henrique_11@hotmail.com <br>
  😄 Pronouns: <strong>he/him</strong><br>
  ⚡ Fun fact: When I was a child my aunt called me board boy (for more details search "board boy").
