@@ -1,7 +1,6 @@
  <h1>Hello👋</h1>
  <h3>My name is Pedro and i'm a student of Systems analysis and development.</h3>
  <p>I'm very happy to share my journey with the comunity of developers. I want to see what the future holds for me! </p>
- <br>
 
  ## Learning
 
@@ -15,6 +14,3 @@
 </div>
 
 <br>
-
-![Snake animation](https://github.com/pedr0vis/pedr0vis/blob/output/github-contribution-grid-snake.svg)
-
