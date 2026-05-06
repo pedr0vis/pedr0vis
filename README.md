@@ -1,16 +1,92 @@
- <h1>Hello👋</h1>
- <h3>My name is Pedro and i'm a student of Systems analysis and development.</h3>
- <p>I'm very happy to share my journey with the comunity of developers. I want to see what the future holds for me! </p>
+<div align="center">
 
- ## Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20Student&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-
-## Contact
-<div>
-<a href = "mailto:pedro.11hob@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-1b7422294" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A8D8EA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Student+of+Systems+Analysis+%26+Development;Always+learning+and+growing+%F0%9F%9A%80;Building+the+future%2C+one+line+at+a+time+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const pedro = {
+  name: "Pedro Henrique",
+  education: "Systems Analysis and Development",
+  currentFocus: "Building strong foundations in web development",
+  goal: "To grow as a developer and contribute to the community"
+};
+```
+
+<br/>
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedr0vis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0vis&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0vis&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:pedro.11hob@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pedro-henrique-1b7422294" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pedr0vis&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
